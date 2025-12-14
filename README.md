@@ -26,6 +26,7 @@ Procedure
 /* write all the steps invloved */
 
 PROGRAM
+```
 module shift_register_3bit (
     input  wire clk,     // clock input
     input  wire rst,     // synchronous reset
@@ -41,6 +42,7 @@ always @(posedge clk) begin
 end
 
 endmodule
+```
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
 
