@@ -48,7 +48,7 @@ endmodule
 
 Developed by: S.SUMAIYA RegisterNumber: 25016731
 
-*/
+
 
 RTL LOGIC FOR SISO Shift Register
 
